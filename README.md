@@ -26,3 +26,21 @@ https://github.com/thomascolomba/js_serviceHttpRequest<br/>
 https://github.com/thomascolomba/testAjaxsynchrone1<br/>
 https://github.com/thomascolomba/enhanced-table-datatable-less<br/>
 https://github.com/thomascolomba/fc<br/>
+
+java :<br/>
+https://github.com/thomascolomba/java_clientSide_http_get_OneClass<br/>
+https://github.com/thomascolomba/tutorial_install_jdk<br/>
+https://github.com/thomascolomba/tutorial_add_environment_variable<br/>
+https://github.com/thomascolomba/tutorial_add_folder_to_PATH<br/>
+https://github.com/thomascolomba/separatedLayer<br/>
+https://github.com/thomascolomba/weatherforsap<br/>
+https://github.com/thomascolomba/mywebserviceserver<br/>
+https://github.com/thomascolomba/mywebserviceclient<br/>
+https://github.com/thomascolomba/basicjspwebapplication<br/>
+https://github.com/thomascolomba/java_test<br/>
+
+java + maven :<br/>
+https://github.com/thomascolomba/separatedLayerMaven<br/>
+
+java + spring security<br/><br/>
+https://github.com/thomascolomba/springSecurityExample<br/>
