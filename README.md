@@ -1,9 +1,9 @@
 # myGitRepos
 
-Groovy :
+Groovy : <br/>
 https://github.com/thomascolomba/groovy_holaThomas
 
-Vuejs :
+Vuejs : <br/>
 https://github.com/thomascolomba/vue_ComponentActingLikeAContainer
 https://github.com/thomascolomba/vue_bindHtmlInputElementsToVariables
 https://github.com/thomascolomba/vue_timeline
@@ -21,7 +21,7 @@ https://github.com/thomascolomba/vue_router
 https://github.com/thomascolomba/vue_firstComponent
 https://github.com/thomascolomba/vue_instanceMethod
 
-javascript :
+javascript : <br/>
 https://github.com/thomascolomba/js_serviceHttpRequest
 https://github.com/thomascolomba/testAjaxsynchrone1
 https://github.com/thomascolomba/enhanced-table-datatable-less
