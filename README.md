@@ -38,11 +38,12 @@ https://github.com/thomascolomba/mywebserviceserver<br/>
 https://github.com/thomascolomba/mywebserviceclient<br/>
 https://github.com/thomascolomba/basicjspwebapplication<br/>
 https://github.com/thomascolomba/java_test<br/>
+https://github.com/thomascolomba/mySOAP-webservice<br/>
 
 java + maven :<br/>
 https://github.com/thomascolomba/separatedLayerMaven<br/>
 
-java + spring security<br/><br/>
+java + spring security<br/>
 https://github.com/thomascolomba/springSecurityExample<br/>
 
 C++ : <br/>
