@@ -46,5 +46,8 @@ https://github.com/thomascolomba/separatedLayerMaven<br/>
 java + spring security<br/>
 https://github.com/thomascolomba/springSecurityExample<br/>
 
+java + Spring boot<br/>
+https://github.com/thomascolomba/firstSpringBootApplication<br/>
+
 C++ : <br/>
 https://github.com/thomascolomba/fixlogbrowser<br/>
