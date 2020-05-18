@@ -51,6 +51,7 @@ https://github.com/thomascolomba/firstSpringBootApplication<br/>
 https://github.com/thomascolomba/SpringBoot-readASimpleDataFromAStandardPropertiesFileWithoutValueAnnotation (basic way to read configuration)<br/>
 https://github.com/thomascolomba/SpringBoot-readASimpleDataFromAStandardPropertiesFileWithValueAnnotation<br/>
 https://github.com/thomascolomba/SpringBoot-readASimpleDataFromASpecificPropertyFile<br/>
+https://github.com/thomascolomba/SpringBoot-readASimpleDataFromAProfileSpecificPropertyFile<br/>
 https://github.com/thomascolomba/waysToReadConfigurationWithSpringBoot (messy)<br/>
 
 C++ : <br/>
