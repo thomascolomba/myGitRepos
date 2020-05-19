@@ -53,6 +53,7 @@ https://github.com/thomascolomba/SpringBoot-readASimpleDataFromAStandardProperti
 https://github.com/thomascolomba/SpringBoot-readASimpleDataFromASpecificPropertyFile<br/>
 https://github.com/thomascolomba/SpringBoot-readASimpleDataFromAProfileSpecificPropertyFile<br/>
 https://github.com/thomascolomba/SpringBoot-readAnIntegerFromStandardPropertiesFile<br/>
+https://github.com/thomascolomba/SpringBoot-readADateFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/waysToReadConfigurationWithSpringBoot (messy)<br/>
 
 C++ : <br/>
