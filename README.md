@@ -54,6 +54,7 @@ https://github.com/thomascolomba/SpringBoot-readASimpleDataFromASpecificProperty
 https://github.com/thomascolomba/SpringBoot-readASimpleDataFromAProfileSpecificPropertyFile<br/>
 https://github.com/thomascolomba/SpringBoot-readAnIntegerFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/SpringBoot-readADoubleFromStandardPropertiesFile<br/>
+https://github.com/thomascolomba/SpringBoot-readABooleanFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/SpringBoot-readADateFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/SpringBoot-readAListFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/waysToReadConfigurationWithSpringBoot (messy)<br/>
