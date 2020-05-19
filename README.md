@@ -48,6 +48,7 @@ https://github.com/thomascolomba/springSecurityExample<br/>
 
 java + Spring boot<br/>
 https://github.com/thomascolomba/firstSpringBootApplication<br/>
+-reading configuration from application.properties<br/>
 https://github.com/thomascolomba/SpringBoot-readASimpleDataFromAStandardPropertiesFileWithoutValueAnnotation (basic way to read configuration)<br/>
 https://github.com/thomascolomba/SpringBoot-readASimpleDataFromAStandardPropertiesFileWithValueAnnotation<br/>
 https://github.com/thomascolomba/SpringBoot-readASimpleDataFromASpecificPropertyFile<br/>
@@ -58,6 +59,11 @@ https://github.com/thomascolomba/SpringBoot-readABooleanFromStandardPropertiesFi
 https://github.com/thomascolomba/SpringBoot-readADateFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/SpringBoot-readAListFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/SpringBoot-readAComplexObjectFromStandardPropertiesFile<br/>
+-reading configuration from json<br/>
+https://github.com/thomascolomba/SpringBoot-readSimpleDataFromAJsonFile<br/>
+https://github.com/thomascolomba/SpringBoot-readADateFromAJsonFile<br/>
+https://github.com/thomascolomba/SpringBoot-readArray-ListAndjsonObject-HashMapFromAJsonFile<br/>
+https://github.com/thomascolomba/SpringBoot-readAnObjectAndANestedObjectFromAJsonFile<br/>
 https://github.com/thomascolomba/waysToReadConfigurationWithSpringBoot (messy)<br/>
 
 C++ : <br/>
