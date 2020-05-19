@@ -57,6 +57,7 @@ https://github.com/thomascolomba/SpringBoot-readADoubleFromStandardPropertiesFil
 https://github.com/thomascolomba/SpringBoot-readABooleanFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/SpringBoot-readADateFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/SpringBoot-readAListFromStandardPropertiesFile<br/>
+https://github.com/thomascolomba/SpringBoot-readAComplexObjectFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/waysToReadConfigurationWithSpringBoot (messy)<br/>
 
 C++ : <br/>
