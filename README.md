@@ -66,6 +66,10 @@ https://github.com/thomascolomba/SpringBoot-readArray-ListAndjsonObject-HashMapF
 https://github.com/thomascolomba/SpringBoot-readAnObjectAndANestedObjectFromAJsonFile<br/>
 -reading from yaml
 https://github.com/thomascolomba/SpringBoot-readASimpleDataFromAStandardYamlPropertiesFile<br/>
+https://github.com/thomascolomba/SpringBoot-readASimpleDataFromASpecificYamlPropertiesFile<br/>
+https://github.com/thomascolomba/SpringBoot-readADateFromAStandardYamlPropertiesFile<br/>
+https://github.com/thomascolomba/SpringBoot-readListAndHashMapFromAStandardYamlPropertiesFile<br/>
+https://github.com/thomascolomba/SpringBoot-readAnObjectAndANestedObjectFromAStandardYamlPropertiesFile<br/>
 https://github.com/thomascolomba/waysToReadConfigurationWithSpringBoot (messy)<br/>
 
 C++ : <br/>
