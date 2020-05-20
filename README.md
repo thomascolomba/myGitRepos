@@ -64,7 +64,7 @@ https://github.com/thomascolomba/SpringBoot-readSimpleDataFromAJsonFile<br/>
 https://github.com/thomascolomba/SpringBoot-readADateFromAJsonFile<br/>
 https://github.com/thomascolomba/SpringBoot-readArray-ListAndjsonObject-HashMapFromAJsonFile<br/>
 https://github.com/thomascolomba/SpringBoot-readAnObjectAndANestedObjectFromAJsonFile<br/>
--reading from yaml
+-reading from yaml<br/>
 https://github.com/thomascolomba/SpringBoot-readASimpleDataFromAStandardYamlPropertiesFile<br/>
 https://github.com/thomascolomba/SpringBoot-readASimpleDataFromASpecificYamlPropertiesFile<br/>
 https://github.com/thomascolomba/SpringBoot-readADateFromAStandardYamlPropertiesFile<br/>
