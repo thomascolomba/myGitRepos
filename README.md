@@ -75,5 +75,8 @@ https://github.com/thomascolomba/SpringBoot-readConfigurationManuallyOnApplicati
 --other
 https://github.com/thomascolomba/waysToReadConfigurationWithSpringBoot (messy)<br/>
 
+java + dates<br/>
+https://github.com/thomascolomba/date-datesBefore1970withJavaUtilDate<br/>
+
 C++ : <br/>
 https://github.com/thomascolomba/fixlogbrowser<br/>
