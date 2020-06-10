@@ -73,7 +73,8 @@ https://github.com/thomascolomba/SpringBoot-readListAndHashMapFromAStandardYamlP
 https://github.com/thomascolomba/SpringBoot-readAnObjectAndANestedObjectFromAStandardYamlPropertiesFile<br/>
 --reading files manually (here reading 2 json file and loading them into a configuration bean)<br/>
 https://github.com/thomascolomba/SpringBoot-readConfigurationManuallyOnApplicationStarted<br/>
---other
+--other<br/>
+https://github.com/thomascolomba/SpringBoot-readyToGoConfigurationReadingWithSpring<br/>
 https://github.com/thomascolomba/waysToReadConfigurationWithSpringBoot (messy)<br/>
 
 java + dates<br/>
