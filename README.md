@@ -57,6 +57,7 @@ https://github.com/thomascolomba/SpringBoot-readAnIntegerFromStandardPropertiesF
 https://github.com/thomascolomba/SpringBoot-readADoubleFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/SpringBoot-readABooleanFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/SpringBoot-readADateFromStandardPropertiesFile<br/>
+https://github.com/thomascolomba/SpringBoot-readAISO8601DateFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/SpringBoot-readAListFromStandardPropertiesFile<br/>
 https://github.com/thomascolomba/SpringBoot-readAComplexObjectFromStandardPropertiesFile<br/>
 -reading configuration from json<br/>
@@ -77,6 +78,8 @@ https://github.com/thomascolomba/waysToReadConfigurationWithSpringBoot (messy)<b
 
 java + dates<br/>
 https://github.com/thomascolomba/date-datesBefore1970withJavaUtilDate<br/>
+https://github.com/thomascolomba/date-datesWithJavaUtilGregorianCalendar<br/>
+https://github.com/thomascolomba/date-datesWithJodaTime<br/>
 
 C++ : <br/>
 https://github.com/thomascolomba/fixlogbrowser<br/>
