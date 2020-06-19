@@ -46,7 +46,7 @@ https://github.com/thomascolomba/separatedLayerMaven<br/>
 java + spring security<br/>
 https://github.com/thomascolomba/springSecurityExample<br/>
 
-java + Spring boot<br/>
+java + Spring boot reading configuation<br/>
 https://github.com/thomascolomba/firstSpringBootApplication<br/>
 -reading configuration from application.properties<br/>
 https://github.com/thomascolomba/SpringBoot-readASimpleDataFromAStandardPropertiesFileWithoutValueAnnotation (basic way to read configuration)<br/>
@@ -76,6 +76,9 @@ https://github.com/thomascolomba/SpringBoot-readConfigurationManuallyOnApplicati
 --other<br/>
 https://github.com/thomascolomba/SpringBoot-readyToGoConfigurationReadingWithSpring<br/>
 https://github.com/thomascolomba/waysToReadConfigurationWithSpringBoot (messy)<br/>
+
+java + Spring boot reading configuation<br/>
+https://github.com/thomascolomba/SpringBoot-setupSimpleConnectionH2<br/>
 
 java + dates<br/>
 https://github.com/thomascolomba/date-datesBefore1970withJavaUtilDate<br/>
