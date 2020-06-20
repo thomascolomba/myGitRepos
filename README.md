@@ -80,6 +80,7 @@ https://github.com/thomascolomba/waysToReadConfigurationWithSpringBoot (messy)<b
 java + Spring boot reading configuation<br/>
 https://github.com/thomascolomba/SpringBoot-setupSimpleConnectionH2<br/>
 https://github.com/thomascolomba/SpringBoot-persistNewSingleFileDatabaseH2<br/>
+https://github.com/thomascolomba/SpringBoot-connectToAnExistingSingleFileDatabaseH2<br/>
 
 java + dates<br/>
 https://github.com/thomascolomba/date-datesBefore1970withJavaUtilDate<br/>
