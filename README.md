@@ -77,7 +77,7 @@ https://github.com/thomascolomba/SpringBoot-readConfigurationManuallyOnApplicati
 https://github.com/thomascolomba/SpringBoot-readyToGoConfigurationReadingWithSpring<br/>
 https://github.com/thomascolomba/waysToReadConfigurationWithSpringBoot (messy)<br/>
 
-java + Spring boot reading configuation<br/>
+java + Spring boot reading Database configuation<br/>
 https://github.com/thomascolomba/SpringBoot-setupSimpleConnectionH2<br/>
 https://github.com/thomascolomba/SpringBoot-persistNewSingleFileDatabaseH2<br/>
 https://github.com/thomascolomba/SpringBoot-connectToAnExistingSingleFileDatabaseH2<br/>
