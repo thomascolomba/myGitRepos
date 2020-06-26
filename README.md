@@ -82,6 +82,7 @@ https://github.com/thomascolomba/SpringBoot-setupSimpleConnectionH2<br/>
 https://github.com/thomascolomba/SpringBoot-persistNewSingleFileDatabaseH2<br/>
 https://github.com/thomascolomba/SpringBoot-connectToAnExistingSingleFileDatabaseH2<br/>
 https://github.com/thomascolomba/SpringBoot-displayUnderlyingSQLRequest<br/>
+https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipEagerWithBackwardNavigability<br/>
 
 java + dates<br/>
 https://github.com/thomascolomba/date-datesBefore1970withJavaUtilDate<br/>
