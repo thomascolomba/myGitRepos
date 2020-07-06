@@ -83,6 +83,7 @@ https://github.com/thomascolomba/SpringBoot-persistNewSingleFileDatabaseH2<br/>
 https://github.com/thomascolomba/SpringBoot-connectToAnExistingSingleFileDatabaseH2<br/>
 https://github.com/thomascolomba/SpringBoot-displayUnderlyingSQLRequest<br/>
 https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipSetEagerWithBackwardNavigability<br/>
+https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipMapKeyPrimitiveAndPartOfMapValueEagerWithBackwardNavigability<br/>
 https://github.com/thomascolomba/SpringBoot-manyToManyRelationshipMapKeyEntityValueOtherEntityEager<br/>
 
 java + dates<br/>
