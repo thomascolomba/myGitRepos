@@ -86,6 +86,7 @@ https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipSetEagerWithBac
 https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipMapKeyPrimitiveAndPartOfMapValueEagerWithBackwardNavigability<br/>
 https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipSortedSetEagerComparatorwiseSortedWithBackwardNavigability<br/>
 https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipSortedMapEagerComparatorwiseSortedWithBackwardNavigability<br/>
+https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipSetEagerOrderBywiseSortedWithBackwardNavigability<br/>
 https://github.com/thomascolomba/SpringBoot-manyToManyRelationshipMapKeyEntityValueOtherEntityEager<br/>
 https://github.com/thomascolomba/SpringBoot-manyToManyRelationshipMapKeyEntityValueSameEntityEager<br/>
 
