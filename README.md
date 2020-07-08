@@ -85,6 +85,7 @@ https://github.com/thomascolomba/SpringBoot-displayUnderlyingSQLRequest<br/>
 https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipSetEagerWithBackwardNavigability<br/>
 https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipMapKeyPrimitiveAndPartOfMapValueEagerWithBackwardNavigability<br/>
 https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipSortedSetEagerComparatorwiseSortedWithBackwardNavigability<br/>
+https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipSortedMapEagerComparatorwiseSortedWithBackwardNavigability<br/>
 https://github.com/thomascolomba/SpringBoot-manyToManyRelationshipMapKeyEntityValueOtherEntityEager<br/>
 https://github.com/thomascolomba/SpringBoot-manyToManyRelationshipMapKeyEntityValueSameEntityEager<br/>
 
