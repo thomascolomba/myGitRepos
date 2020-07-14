@@ -90,6 +90,9 @@ https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipSetEagerOrderBy
 https://github.com/thomascolomba/SpringBoot-manyToManyRelationshipMapKeyEntityValueOtherEntityEager<br/>
 https://github.com/thomascolomba/SpringBoot-manyToManyRelationshipMapKeyEntityValueSameEntityEager<br/>
 
+(virtualbox/ubuntu)docker + postgresql + spring boot<br/>
+https://github.com/thomascolomba/docker_postgresql_withinVirtualboxUbuntu<br/>
+
 java + dates<br/>
 https://github.com/thomascolomba/date-datesBefore1970withJavaUtilDate<br/>
 https://github.com/thomascolomba/date-datesWithJavaUtilGregorianCalendar<br/>
