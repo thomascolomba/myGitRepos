@@ -90,6 +90,9 @@ https://github.com/thomascolomba/SpringBoot-oneToManyRelationshipSetEagerOrderBy
 https://github.com/thomascolomba/SpringBoot-manyToManyRelationshipMapKeyEntityValueOtherEntityEager<br/>
 https://github.com/thomascolomba/SpringBoot-manyToManyRelationshipMapKeyEntityValueSameEntityEager<br/>
 
+java + Spring boot Test<br/>
+https://github.com/thomascolomba/SpringBoot-springTest_springWebLayerOnlyTest<br/>
+
 (virtualbox/ubuntu)docker + postgresql + spring boot<br/>
 https://github.com/thomascolomba/docker_postgresql_withinVirtualboxUbuntu<br/>
 
