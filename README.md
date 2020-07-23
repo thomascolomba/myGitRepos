@@ -94,6 +94,7 @@ java + Spring boot Test<br/>
 https://github.com/thomascolomba/SpringBoot-springTest_springWebLayerOnlyTest<br/>
 https://github.com/thomascolomba/SpringBoot-springTest_springAlmostEntireStackTest<br/>
 https://github.com/thomascolomba/SpringBoot-springTest_springIntegrationTestWithHttpSimulatedRequest<br/>
+https://github.com/thomascolomba/SpringBoot-springTest_springWithMockito<br/>
 
 (virtualbox/ubuntu)docker + postgresql + spring boot<br/>
 https://github.com/thomascolomba/docker_postgresql_withinVirtualboxUbuntu<br/>
