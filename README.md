@@ -94,6 +94,7 @@ java + Spring boot Test<br/>
 https://github.com/thomascolomba/SpringBoot-springTest_springWebLayerOnlyTest<br/>
 https://github.com/thomascolomba/SpringBoot-springTest_springAlmostEntireStackTest<br/>
 https://github.com/thomascolomba/SpringBoot-springTest_springIntegrationTestWithHttpSimulatedRequest<br/>
+https://github.com/thomascolomba/SpringBoot-springTest_springRepositoryTestingWithH2<br/>
 java + Spring boot Test + Mockito<br/>
 https://github.com/thomascolomba/SpringBoot-springTest_springWithMockito<br/>
 https://github.com/thomascolomba/SpringBoot-springTest_springWithMockitoAndArgumentMatcher<br/>
