@@ -104,6 +104,8 @@ java + Spring boot Test + BDDMockito<br/>
 https://github.com/thomascolomba/SpringBoot-springTest_springWithBDDMockito<br/>
 java + Spring boot Test + Cucumber<br/>
 https://github.com/thomascolomba/spring-boot-cucumber (forked)<br/>
+java + Spring boot Test + Selenium<br/>
+https://github.com/thomascolomba/SpringBoot-springTest_springWithSelenium<br/>
 
 (virtualbox/ubuntu)docker + postgresql + spring boot<br/>
 https://github.com/thomascolomba/docker_postgresql_withinVirtualboxUbuntu<br/>
