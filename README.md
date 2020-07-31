@@ -106,6 +106,7 @@ java + Spring boot Test + Cucumber<br/>
 https://github.com/thomascolomba/spring-boot-cucumber (forked)<br/>
 java + Spring boot Test + Selenium<br/>
 https://github.com/thomascolomba/SpringBoot-springTest_springWithSelenium<br/>
+https://github.com/thomascolomba/ng-spring-boot (forked)<br/>
 
 (virtualbox/ubuntu)docker + postgresql + spring boot<br/>
 https://github.com/thomascolomba/docker_postgresql_withinVirtualboxUbuntu<br/>
