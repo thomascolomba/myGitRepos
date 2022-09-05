@@ -1,6 +1,6 @@
 # myGitRepos
 
-sort integer with java with various stack :<br/>
+sort integer with java(1.8) with various stack :<br/>
 https://github.com/thomascolomba/sort_integer_with_java/<br/>
 https://github.com/thomascolomba/sort_integer_with_java_with_a_main_launcher <br/>
 
